@@ -1,1 +1,1 @@
-# ate-it
+# Rate-it
